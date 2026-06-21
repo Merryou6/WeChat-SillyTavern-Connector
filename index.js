@@ -1,4 +1,4 @@
-const MODULE_NAME = 'WeChat-Connector';
+const MODULE_NAME = 'WeChat-SillyTavern-Connector';
 const DEFAULT_SETTINGS = {
     bridgeUrl: 'ws://127.0.0.1:2334',
     autoConnect: true,
